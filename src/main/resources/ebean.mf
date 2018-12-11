@@ -1,0 +1,3 @@
+entity-packages: com.sj.athletic.meeting.entity
+transactional-packages: com.sj.athletic.meeting
+querybean-packages: com.sj.athletic.meeting
